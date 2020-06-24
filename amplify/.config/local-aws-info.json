@@ -1,7 +1,7 @@
 {
-    "dev": {
+    "devg": {
         "configLevel": "project",
         "useProfile": true,
-        "profileName": "isengard-amplify-cli"
+        "profileName": "amp-db8"
     }
 }
